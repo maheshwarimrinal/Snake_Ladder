@@ -1,1 +1,1 @@
-This Project is of JAVA 
+This Project is in JAVA.
